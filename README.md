@@ -1,4 +1,4 @@
-![ Picture of representation of AI voice recognizers](https://raw.githubusercontent.com/robss2020/computerplayverysexymusic/main/DALLE%202023-01-15-Two%20alluring%20beautiful%20futuristic%20voice%20recognition%20realistic%20robots%2C%20one%20male%20one%20female.%20Ultra%20chic%2C%20ultra%20high%20definition%2C%20ultrarealistic%2C%20romantic.png "Voice recognizers")
+![ Picture of representation of AI voice recognizers](https://raw.githubusercontent.com/robss2020/computerplayverysexymusic/main/banner.png "Voice recognizers")
 
 ## A home automation tool from the Gods
 
