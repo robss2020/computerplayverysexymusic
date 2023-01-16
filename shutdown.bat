@@ -1,2 +1,2 @@
 @echo off
-shutdown /s /f /t 0
+echo You can put shutdown code here.  I have removed it so that it is not launched automatically.
