@@ -1,0 +1,1 @@
+start vlc "testapocalypse.mp3"
